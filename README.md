@@ -1,6 +1,6 @@
 # Reddit LGBTQIA+ Community Sentiment Analysis
 
-This project aims at exploring sentiments of LGBTQIA+ Community in Reddit social media platform. 
+This project aims at exploring sentiments  and areas of concerns of LGBTQIA+ Community in Reddit social media platform. 
 
 Data Source: [Reddit - Social Medial Platform](https://www.reddit.com/) from the platform official API.
 
