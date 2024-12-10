@@ -9,6 +9,8 @@ Data Source: [Reddit - Social Medial Platform](https://www.reddit.com/) from the
 - Unsupervised Clustering : K-Means Clustering
 
 ## The Notebook :
+### Link: [Click here to check out the Notebook](https://github.com/Yuen-Ling-Wong/Reddit-LGBTQIA-Community-Sentiment-Analysis/blob/main/Reddit%20LGBTQIA%2B%20Community%20Sentiment%20Analysis.ipynb)
+### Content:
 - Part I - API Data Retrieval
 - Part II - Data Cleaning + Preprocessing
 - Part III - Explorative Data Analysis
