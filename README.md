@@ -4,6 +4,8 @@ This project aims at exploring sentiments  and areas of concerns of LGBTQIA+ Com
 
 Data Source: [Reddit - Social Medial Platform](https://www.reddit.com/) from the platform official API.
 
+Project Creator: Flora Wong
+
 ## Major Models to be Used :
 - Natural Language Processing (NLP) Models
 - Unsupervised Clustering : K-Means Clustering
